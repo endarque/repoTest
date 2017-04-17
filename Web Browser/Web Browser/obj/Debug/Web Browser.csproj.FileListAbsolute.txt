@@ -1,0 +1,10 @@
+C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\Web Browser\Web Browser\bin\Debug\Web Browser.exe.config
+C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\Web Browser\Web Browser\bin\Debug\Web Browser.exe
+C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\Web Browser\Web Browser\bin\Debug\Web Browser.pdb
+C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\Web Browser\Web Browser\obj\Debug\Web Browser.csprojResolveAssemblyReference.cache
+C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\Web Browser\Web Browser\obj\Debug\Web_Browser.AboutForm.resources
+C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\Web Browser\Web Browser\obj\Debug\Web_Browser.MainForm.resources
+C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\Web Browser\Web Browser\obj\Debug\Web_Browser.Properties.Resources.resources
+C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\Web Browser\Web Browser\obj\Debug\Web Browser.csproj.GenerateResource.Cache
+C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\Web Browser\Web Browser\obj\Debug\Web Browser.exe
+C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\Web Browser\Web Browser\obj\Debug\Web Browser.pdb
