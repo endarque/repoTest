@@ -1,5 +1,0 @@
-C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Cryptor\bin\Debug\Cryptor.dll
-C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Cryptor\bin\Debug\Cryptor.pdb
-C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Cryptor\obj\Debug\Cryptor.csprojResolveAssemblyReference.cache
-C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Cryptor\obj\Debug\Cryptor.dll
-C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Cryptor\obj\Debug\Cryptor.pdb

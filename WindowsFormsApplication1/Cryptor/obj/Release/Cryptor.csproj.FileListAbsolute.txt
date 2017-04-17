@@ -1,4 +1,0 @@
-C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Cryptor\bin\Release\Cryptor.dll
-C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Cryptor\bin\Release\Cryptor.pdb
-C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Cryptor\obj\Release\Cryptor.dll
-C:\Users\KOSYAS1\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\Cryptor\obj\Release\Cryptor.pdb
